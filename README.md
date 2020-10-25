@@ -1,5 +1,4 @@
 ### Hi. I'm Carlos Nóbrega. Welcome to my Github profile. :octocat: :relaxed:
-![](https://media.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.gif)
  
 ### Contact me :calling:
 
@@ -16,11 +15,11 @@ Computing Science student at Federal University of Paraiba. Experiences with web
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javacript.svg">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
+        <span>Golang</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
       <td width="25%" align="center">
@@ -28,29 +27,29 @@ Computing Science student at Federal University of Paraiba. Experiences with web
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
+        <span>Dart</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
+        <span>Graphql</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
    </tr>
    <tr>
       <td width="25%" align="center">
-        <span>Pytorch</span><br><br><br>
+        <span>Node.js</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
-        <span>Tensorflow</span><br><br><br>
+        <span>Flutter</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td> 
       <td width="25%" align="center">
-        <span>Tensorflow</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td> 
       <td width="25%" align="center">
-        <span>Tensorflow</span><br><br><br>
+        <span>Postgres</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgres.svg">
       </td> 
       <td width="25%" align="center">
