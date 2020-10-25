@@ -50,7 +50,7 @@ Computing Science student at Federal University of Paraiba. Experiences with web
       </td> 
       <td width="25%" align="center">
         <span>Postgres</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgres.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td> 
       <td width="25%" align="center">
         <span>Docker</span><br><br><br>
