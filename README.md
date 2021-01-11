@@ -7,7 +7,7 @@
 
 ### About Me :speech_balloon:
 
-Computing Science student at Federal University of Paraiba. Experiences with web and mobile development with emphasis on back-end focused on Golang and Node. Currently i'm developer at [Conductor Tecnologia](https://www.conductor.com.br/).
+Computing Science student at Federal University of Paraíba. Experiences with web and mobile development with emphasis on back-end focused on Golang and Node.js. Currently I'm developer at [Conductor Tecnologia](https://www.conductor.com.br/).
 
 ## Languages and Tecnologies
 
