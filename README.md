@@ -7,7 +7,7 @@
 
 ### About Me :speech_balloon:
 
-Computer Science student at Federal University of Paraiba, framework agnostic, open-minded and a fast learner software engineer. Experiences with web and mobile development with emphasis on back-end focused on Golang and Node.js. Currently I'm Software Engineer at [Conductor Tecnologia](https://www.conductor.com.br/).
+Computer Science student at Federal University of Paraiba, framework agnostic, open-minded and a fast learner software engineer. Experiences with web and mobile development with emphasis on backend focused on Golang and Node.js. Currently I'm Software Engineer at [Conductor Tecnologia](https://www.conductor.com.br/).
 
 ## Languages and Tecnologies
 
