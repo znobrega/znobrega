@@ -3,6 +3,7 @@
 ### Contact me :calling:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/znobrega)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-nobrega)](https://www.linkedin.com/in/carlos-nobrega)
 ![Gmail Badge](https://img.shields.io/badge/-nobregacarlosjr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nobregacarlosjr@gmail.com)
 
 ### About Me :speech_balloon:
