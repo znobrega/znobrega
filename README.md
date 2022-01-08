@@ -64,7 +64,7 @@ Computer Science student at Federal University of Paraiba, framework agnostic, o
         <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
       </td>
       <td width="25%" align="center">
-        <span>Kubernetes</span><br><br><br>
+        <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
    </tr>
