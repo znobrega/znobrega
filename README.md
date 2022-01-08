@@ -58,6 +58,16 @@ Computer Science student at Federal University of Paraiba, framework agnostic, o
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span>Kubernetes</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Kubernetes</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+   </tr>
   </tbody>
 </table>
 
@@ -66,7 +76,7 @@ Computer Science student at Federal University of Paraiba, framework agnostic, o
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Conductor Tecnologia
+- 🔭 I’m currently working on ... Dock
 - 🌱 I’m currently learning ...   Web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
