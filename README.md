@@ -8,7 +8,7 @@
 
 ### About Me :speech_balloon:
 
-Computer Science student at Federal University of Paraiba, framework agnostic, open-minded and a fast learner software engineer. Experiences with web and mobile development with emphasis on backend focused on Golang and Node.js. Currently I'm Software Engineer at [Dock](https://dock.tech/).
+Computer Science student at Federal University of Paraiba, framework agnostic, open-minded and a fast learner software engineer. Experiences with web and mobile development with emphasis on backend focused on Golang and Node.js. Currently I'm Software Engineer at [Mercado Livre](https://www.mercadolivre.com.br/).
 
 ## Languages and Tecnologies
 
@@ -76,7 +76,7 @@ Computer Science student at Federal University of Paraiba, framework agnostic, o
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Dock
+- 🔭 I’m currently working on ... Mercado Livre
 - 🌱 I’m currently learning ...   Web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
